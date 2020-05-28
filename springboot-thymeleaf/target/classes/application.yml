@@ -1,0 +1,12 @@
+spring:
+  thymeleaf:
+    prefix: classpath:/thymeleaf/
+    suffix: .html
+    mode: HTML5
+    encoding: utf-8
+    servlet:
+      content-type: text/html
+    cache: false
+
+server:
+  port: 8081
