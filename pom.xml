@@ -26,7 +26,7 @@
         <spring-boot.version>2.1.6.RELEASE</spring-boot.version>
         <spring-cloud.version>Greenwich.SR2</spring-cloud.version>
         <spring-cloud-zuul.version>2.1.2.RELEASE</spring-cloud-zuul.version>
-        <guava.version>28.0-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
         <poi-ooxml.version>4.1.0</poi-ooxml.version>
         <fastjson.version>1.2.59</fastjson.version>
         <commons-lang3.version>3.9</commons-lang3.version>
