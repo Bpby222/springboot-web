@@ -32,7 +32,7 @@
         <commons-lang3.version>3.9</commons-lang3.version>
         <ons-client.version>1.8.0.Final</ons-client.version>
         <spring-boot-admin.version>2.1.6</spring-boot-admin.version>
-        <protobuf-java.version>2.5.0</protobuf-java.version>
+        <protobuf-java.version>3.16.1</protobuf-java.version>
         <loghub-client-lib.version>0.6.16</loghub-client-lib.version>
         <jodd.version>5.1.0-20190624</jodd.version>
         <aliyun-log.version>0.6.38</aliyun-log.version>
