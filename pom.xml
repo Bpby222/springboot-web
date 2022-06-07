@@ -34,7 +34,7 @@
         <spring-boot-admin.version>2.1.6</spring-boot-admin.version>
         <protobuf-java.version>2.5.0</protobuf-java.version>
         <loghub-client-lib.version>0.6.16</loghub-client-lib.version>
-        <jodd.version>5.1.0-20190624</jodd.version>
+        <jodd.version>6.2.1</jodd.version>
         <aliyun-log.version>0.6.38</aliyun-log.version>
         <aliyun-log-producer.version>0.3.3</aliyun-log-producer.version>
         <jsoup.version>1.12.1</jsoup.version>
